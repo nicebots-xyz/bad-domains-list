@@ -25,6 +25,7 @@ defigamb.com
 doadox.com
 doakux.com
 doublegamb.com
+drgn10.com
 drgn36.com
 drgn38.com
 duetux.com
@@ -38,12 +39,14 @@ feuvax.com
 fezowin.com
 fezwowin.com
 foapux.com
+foldwin.com
 fomawin.com
 fozawin.com
 fuxowin.com
 fuzawin.com
 fuzewin.com
 fyzwin.com
+gadewin.gd
 gezowin.com
 gingobet.com
 hasobet.com
@@ -108,6 +111,7 @@ molewin.com
 mrbeasthub.com
 mrbeastsgames.net
 multigamb.com
+muyewin.com
 muzewin.com
 nakowin.com
 naogox.com
@@ -120,7 +124,9 @@ nozawin.com
 nubegamb.com
 nuexgamb.com
 nullgamb.com
+nullwin.com
 nunegamb.com
+nyxwin.com
 ovixgamb.com
 pazewin.com
 plesogamb.com
@@ -184,9 +190,11 @@ woerux.se
 wolzabed.com
 wolzabet.com
 wonkawin.com
+worowin.com
 woukox.com
 xerowin.com
 xorawin.com
+xyrowin.com
 zazawin.com
 zeopox.com
 zeovux.com
